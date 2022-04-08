@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zobinette
+- 👋 Hi, I’m @PiMasse
 - 👀 I’m interested in power electronics and having fun into scripting activities
 - 🌱 I’m currently learning several languages, but I'm not a pro developper at all
 
